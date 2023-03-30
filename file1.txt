@@ -1,1 +1,3 @@
-some random text added
+some random text added.
+
+this text is added after cloning.
